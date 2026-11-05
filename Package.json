@@ -1,0 +1,13 @@
+
+{
+  "name": "api-pribadi",
+  "version": "1.0.0",
+  "description": "Server API pribadi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
